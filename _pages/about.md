@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning researcher interested applying machine learning techniques to inverse problems and medical imaging.
+I am a machine learning researcher interested in applying machine learning techniques to inverse problems and medical imaging.
 
-Currently I lead the AI team at [Hyperfine](https://hyperfine.io/). Our team develops and productizes machine learning algorithms that can improve image quality and provide accurate, timely diagnoses for *Swoop* -- a protable MRI machine.
+Currently I lead the AI team at [Hyperfine](https://hyperfine.io/). Our team develops and productizes machine learning algorithms that can improve image quality and provide accurate, timely diagnoses for *Swoop* -- a portable MRI machine.
 
 Prior to joining Hyperfine, I completed my PhD in Computer Science at [BioMedIA](https://biomedia.doc.ic.ac.uk/), [Imperial College London](https://www.imperial.ac.uk/) under the supervision of [Prof. Daniel Rueckert](https://www.professoren.tum.de/rueckert-daniel) and [Prof. Jo V. Hajnal](https://www.kcl.ac.uk/people/jo-hajnal). I also spent one summer as an intern at Twitter, UK, working with [Joost](https://joo.st/) and [Jose](https://caballerojose.com/).
 
