@@ -11,14 +11,28 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Team Lead, AI
+    - title: Fellow, AI
       institution: Hyperfine, CT, USA
-      year: 10.2022-Present
+      year: 03.2025-Present
       description:
         - Pioneered a state-of-the-art deep learning (DL) MRI reconstruction algorithm and a novel training framework for reconstructing extremely noisy low-field MRI data with no ground truth.
         - Delivered significant contributions to FDA 510(k) clearances for DL reconstruction and AI measurement tools for brain MRI, including designing and deploying models, developing training and evaluation schemes for noisy and heterogeneous dataset with limited labels, and devising and executing verification and validation protocols for the regulatory requirements.
-        - Conduct research and develop key innovations in model-based image reconstruction, unsupervised image denoising, reconstruction, and nonrigid registration, simulation-based model training frameworks.
+        - Conduct research and develop key innovations in
+            (1) supervised/self-supervised physics-driven, model-based MR image reconstruction,
+            (2) MR motion correction,
+            (3) supervised/unsupervised image denoising,
+            - (4) super-resolution,
+            - (5) supervised/unsupervised, uni/multimodal, affine/deformable image registration,
+            - (6) MR sensor data denoising,
+            - (7) simulation-based model training frameworks,
+            - (8) image classification
+            - (9) image quality assessment,
+            - (10) domain-invariant anatomical segmentation.
         - Mentor a team of senior scientists and interns to help them navigate the R&D process for projects including signal processing, sensor-data denoising, anatomical segmentation, and self-supervised learning
+
+    - title: Teach Lead, AI
+      institution: Hyperfine, CT, USA
+      year: 10.2022-03.2025
 
     - title: Staff Scientist
       institution: Hyperfine, CT, USA
